@@ -395,7 +395,7 @@ This tutorial covered the basics of Docker and Docker Compose, demonstrating how
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://www.mit.edu/~amini/LICENSE.md).
 
 ## Acknowledgements
 
