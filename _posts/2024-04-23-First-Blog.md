@@ -105,7 +105,7 @@ version: "3"
 services:
   frontend:
     frontend:
-    image: httpd:latest
+    image: monildesai/21bcp217-frontend
     container_name: frontend_21BCP217
     volumes:
       - "./frontend:/usr/local/apache2/htdocs"
@@ -161,9 +161,7 @@ services:
 
   backend:
     container_name: backend_21BCP217
-    build:
-      context: ./
-      dockerfile: Dockerfile
+    image: monildesai/21bcp217-backend
     volumes:
       - "./api:/var/www/html/"
     ports:
@@ -331,7 +329,7 @@ services:
     # Backend service configuration...
 
   database:
-    image: mysql:latest
+    image: monildesai/21bcp217-database
     container_name: database_21BCP217
     environment:
       MYSQL_DATABASE: todo_app
@@ -342,7 +340,7 @@ services:
       - "./db:/docker-entrypoint-initdb.d"
 
   phpmyadmin:
-    image: phpmyadmin/phpmyadmin
+    image: monildesai/21bcp217-databasemanagement
     container_name: phpmyadmin_21BCP217
     ports:
       - 8080:80
