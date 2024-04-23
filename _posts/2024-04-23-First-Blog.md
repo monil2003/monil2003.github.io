@@ -356,7 +356,7 @@ services:
 
 Upon completion of the steps outlined above, your directory structure will resemble the following:
 
-![(assets/images/directory.png)](https://github.com/monil2003/monil2003.github.io/blob/main/assets/images/directory.png)
+![directory](images/directory.png)
 
 ### Setting Up Containers
 
@@ -365,16 +365,16 @@ To set up containers and run them, execute the following command:
 ```bash
 docker-compose up
 ```
-![(assets/images/compose.png)](https://github.com/monil2003/monil2003.github.io/blob/main/assets/images/compose.png)
+![compose](images/compose.png)
 
 Containers Running:
 
-![(assets/images/containers.png)](https://github.com/monil2003/monil2003.github.io/blob/main/assets/images/containers.png)
-![(assets/images/cont_docker.png)](https://github.com/monil2003/monil2003.github.io/blob/main/assets/images/cont_docker.png)
+![containers]images/containers.png)
+![cont_docker](images/cont_docker.png)
 
 ### Frontend
 
-![(assets/images/frontend.png)](https://github.com/monil2003/monil2003.github.io/blob/main/assets/images/frontend.png)
+![frontend](images/frontend.png)
 
 ### Backend
 
@@ -382,7 +382,7 @@ Containers Running:
 
 ### Database
 
-![(assets/images/database.png)](https://github.com/monil2003/monil2003.github.io/blob/main/assets/images/database.png)
+![database](images/database.png)
 
 ## Configuration
 
