@@ -378,7 +378,7 @@ Containers Running:
 
 ### Backend
 
-![assets/images/backend.png](https://github.com/monil2003/monil2003.github.io/blob/main/assets/images/backend.png)
+[![assets/images/backend.png](https://github.com/monil2003/monil2003.github.io/blob/main/assets/images/backend.png)](https://github.com/monil2003/monil2003.github.io/blob/main/assets/images/backend.png)
 
 ### Database
 
