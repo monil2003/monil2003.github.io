@@ -356,7 +356,7 @@ services:
 
 Upon completion of the steps outlined above, your directory structure will resemble the following:
 
-![Directory](assets\images\directory.png)
+![Directory](main\assets\images\directory.png)
 
 ### Setting Up Containers
 
@@ -365,24 +365,24 @@ To set up containers and run them, execute the following command:
 ```bash
 docker-compose up
 ```
-![compose](assets\images\compose.png)
+![compose](main\assets\images\compose.png)
 
 Containers Running:
 
-![containers](assets\images\containers.png)
-![cont_docker](assets\images\cont_docker.png)
+![containers](main\assets\images\containers.png)
+![cont_docker](main\assets\images\cont_docker.png)
 
 ### Frontend
 
-![frontend](assets\images\frontend.png)
+![frontend](main\assets\images\frontend.png)
 
 ### Backend
 
-![backend](assets\images\backend.png)
+![backend](main\assets\images\backend.png)
 
 ### Database
 
-![database](assets\images\database.png)
+![database](main\assets\images\database.png)
 
 ## Configuration
 
